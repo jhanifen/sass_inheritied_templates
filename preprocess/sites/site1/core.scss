@@ -1,0 +1,5 @@
+/* Core Site Styles Definition for SASS importing for Site1 */
+
+@import "../../base/_variables_base"; // Grab all the variables
+@import "_site_variables"; // Only override the ones we care about for this site
+@import "../../base/_core"; // Apply the above variable to the core style sheet

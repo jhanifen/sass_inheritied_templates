@@ -1,0 +1,29 @@
+body {
+    background: $body_background_color;
+    font-size: 24px;
+    color: #fff;
+    font-family: Arial, Charcoal, sans-serif;
+}
+
+header {
+    background: $header_background_color;
+    padding: 5px 10px;
+    font-size: 34px;
+}
+
+section {
+    min-height: 100%;
+    background: #fff url($section_background_image) no-repeat 0 0;
+    background-size: cover;
+    padding: 10px;
+}
+
+footer {
+    background: $footer_background_color;
+    font-size: 14px;
+    padding: 5px 10px;
+    height: 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
