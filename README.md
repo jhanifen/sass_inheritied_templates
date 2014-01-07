@@ -1,4 +1,4 @@
-sass_inheritied_templates
+SASS Inherited Templates
 =========================
 
 Overview
